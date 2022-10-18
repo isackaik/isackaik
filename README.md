@@ -1,4 +1,4 @@
-### Hi! Eu sou Isac Kaik, estudante de Programação. 👋
+### Hi, World! Eu sou Isac Kaik, estudante de Programação. 👋
 
 <div align="center">
   <a href="https://github.com/isackaik">
