@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, me chamo Isac Kaik, nascido em Maruim - SE. Curso Sistemas de Informação pela Universidade Federal de Sergipe e atuo na área de Desenvolvimento de Software.
+Hello, my name is Isac Kaik, born in Maruim - SE. Course in Information Systems at the Federal University of Sergipe and I work in the area of ​​Software Development.
 
 
 ## 🌐 Socials:
